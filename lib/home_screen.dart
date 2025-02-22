@@ -17,7 +17,6 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Updated recipe list with Indian dishes
     final List<Recipe> recipes = [
       Recipe(
         name: 'Butter Chicken',
